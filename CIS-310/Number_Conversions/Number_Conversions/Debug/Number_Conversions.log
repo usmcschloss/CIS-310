@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\usmcs\OneDrive\Desktop\UofM\CIS\CIS-310\Number_Conversions\Number_Conversions\Source.cpp(46,40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\usmcs\OneDrive\Desktop\UofM\CIS\CIS-310\Number_Conversions\Number_Conversions\Source.cpp(64,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\usmcs\OneDrive\Desktop\UofM\CIS\CIS-310\Number_Conversions\Number_Conversions\Source.cpp(65,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\usmcs\OneDrive\Desktop\UofM\CIS\CIS-310\Number_Conversions\Number_Conversions\Source.cpp(117,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\usmcs\OneDrive\Desktop\UofM\CIS\CIS-310\Number_Conversions\Number_Conversions\Source.cpp(125,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\usmcs\OneDrive\Desktop\UofM\CIS\CIS-310\Number_Conversions\Number_Conversions\Source.cpp(128,20): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Number_Conversions.vcxproj -> C:\Users\usmcs\OneDrive\Desktop\UofM\CIS\CIS-310\Number_Conversions\Debug\Number_Conversions.exe
